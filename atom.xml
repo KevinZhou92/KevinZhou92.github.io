@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-08-18T22:41:35.297Z</updated>
+  <updated>2018-08-22T03:58:15.911Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,14 +21,26 @@
     <link href="http://yoursite.com/2018/08/18/%E5%9C%A8%E7%BE%8E%E5%9B%BD%E5%AD%A6%E9%A3%9E%E8%A1%8C-PPL/"/>
     <id>http://yoursite.com/2018/08/18/在美国学飞行-PPL/</id>
     <published>2018-08-18T22:38:28.000Z</published>
-    <updated>2018-08-18T22:41:35.297Z</updated>
+    <updated>2018-08-22T03:58:15.911Z</updated>
+    
+    <content type="html"><![CDATA[<p>来美国</p>]]></content>
     
     <summary type="html">
     
+      
+      
+        &lt;p&gt;来美国&lt;/p&gt;
+
+      
+    
     </summary>
     
+      <category term="Life" scheme="http://yoursite.com/categories/Life/"/>
     
-      <category term="Life" scheme="http://yoursite.com/tags/Life/"/>
+    
+      <category term="飞行" scheme="http://yoursite.com/tags/%E9%A3%9E%E8%A1%8C/"/>
+    
+      <category term="PPL" scheme="http://yoursite.com/tags/PPL/"/>
     
   </entry>
   
