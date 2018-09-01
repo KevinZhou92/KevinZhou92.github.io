@@ -226,9 +226,6 @@ h5,
 h6 {
   margin: 20px 0 15px;
 }
-h2 {
-  font-size: 18px;
-}
 h1 {
   font-size: 24px;
 }
@@ -276,6 +273,9 @@ h6 {
   h6 {
     font-size: 10px;
   }
+}
+h2 {
+  font-size: 19px;
 }
 p {
   margin: 0 0 20px 0;
@@ -1854,7 +1854,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #fff;
+  background: #2a0df1;
 }
 .links-of-blogroll {
   font-size: 13px;
