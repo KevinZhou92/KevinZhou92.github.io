@@ -1289,6 +1289,14 @@ pre .javascript .function {
   color: #0477ab;
   text-decoration: underline;
 }
+.post-body blockquote ol li a {
+  color: #0593d3;
+  border-bottom: none;
+}
+.post-body blockquote ol li a:hover {
+  color: #0477ab;
+  text-decoration: underline;
+}
 .posts-expand {
   padding-top: 40px;
 }
@@ -1854,7 +1862,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #6591c3;
+  background: #e4be7c;
 }
 .links-of-blogroll {
   font-size: 13px;
