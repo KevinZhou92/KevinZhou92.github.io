@@ -1297,6 +1297,30 @@ pre .javascript .function {
   color: #0477ab;
   text-decoration: underline;
 }
+.post-body blockquote ul li a {
+  color: #0593d3;
+  border-bottom: none;
+}
+.post-body blockquote ul li a:hover {
+  color: #0477ab;
+  text-decoration: underline;
+}
+.post-body ul li a {
+  color: #0593d3;
+  border-bottom: none;
+}
+.post-body ul li a:hover {
+  color: #0477ab;
+  text-decoration: underline;
+}
+.post-body ol li a {
+  color: #0593d3;
+  border-bottom: none;
+}
+.post-body ol li a:hover {
+  color: #0477ab;
+  text-decoration: underline;
+}
 .posts-expand {
   padding-top: 40px;
 }
@@ -1862,7 +1886,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #e4be7c;
+  background: #7d4a63;
 }
 .links-of-blogroll {
   font-size: 13px;
